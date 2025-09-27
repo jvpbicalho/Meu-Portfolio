@@ -6,7 +6,7 @@ Estudante de Ciência da Computação em PUC-SP | Desenvolvedor de Software | Ga
 - Interesse pela área de games, principalmente na área de desenvolvimento  
 ## Contato  
 Links para Contato:  
- - [LinkedIn](www.linkedin.com/in/joao-victor-p-bicalho)  
+ - LinkedIn: www.linkedin.com/in/joao-victor-p-bicalho 
  - Email: jvpbicalho@gmail.com
 ## Competências 
 Competências:  
