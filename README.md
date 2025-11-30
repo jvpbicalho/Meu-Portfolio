@@ -28,4 +28,13 @@ Tecnologias:
   
 ***Finalizado***
 ### Aplicativo Mobile de Gestão de Saúde
-***Em Andamento***
+[Link do Repositório](https://github.com/PedroBZR12/careon)
+Descrição: Aplicativo Mobile de Gestão de Saúde
+Tecnologias:
+- PostgreSQL
+- Django API
+- React Native
+- Python
+
+
+***Finalizado***
